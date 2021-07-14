@@ -2,5 +2,5 @@
 "clone",:apple:
 "pull",:car:
 "push",:coffee:
-"add",::
+"add",:juice:
 "commit",:pizza:
