@@ -1,6 +1,6 @@
 # git_pav
-"clone"
-"pull"
-"push"
-"add"
-"commit"
+"clone",:りんご:
+"pull",:バナナ:
+"push",:いちご:
+"add",:パイナップル:
+"commit",:みかん:
