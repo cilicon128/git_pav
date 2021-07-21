@@ -5,3 +5,6 @@
 "add",:lemon:
 "commit",:pizza:
 "status",:house:
+"reset",:dog:
+"mergi origin",:cat:
+"rebase origin",:milk:
