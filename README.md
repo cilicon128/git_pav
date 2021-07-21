@@ -7,4 +7,4 @@
 "status",:house:
 "reset",:dog:
 "mergi origin",:cat:
-"rebase origin",:milk:
+"rebase origin",:orange:
