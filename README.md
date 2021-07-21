@@ -4,3 +4,4 @@
 "push",:coffee:
 "add",:lemon:
 "commit",:pizza:
+"status",:house:
